@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joel Rondinel Pacheco and I'm a Java Backend Developer from Argentina</p>
+<h3 align="left">My name is Joel Rondinel Pacheco and I'm a Java Backend Developer from Argentina</h3>
 
 ###
 
